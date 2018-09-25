@@ -1,0 +1,64 @@
+.top-textbox {
+  color: white;
+  font-size: 20px;
+  background-color: DarkRed;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+  }
+
+.filler {
+  color: white;
+  font-size: 10px;
+  background-color: DimGray;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+.links {
+  text-align: right;
+  color: white;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.main_display {
+  background-color: white;
+  margin: 25px 50px 75px 100px;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+  font-size: 15px;
+}
+
+.container {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+
+.table {
+  display: table-cell;
+  text-align: alignleft ;
+  vertical-align: top;
+  width: 70%;
+  padding: 1rem;
+}
+
+h4 {
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  font-weight: bold;
+}
